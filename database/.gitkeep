@@ -1,0 +1,2 @@
+# predictions.db is excluded from git (.gitignore).
+# It is created automatically when the Streamlit app runs.

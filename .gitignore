@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+env/
+venv/
+
+# Trained model files (large binaries — regenerate with train.py)
+models/*.pkl
+models/backups/
+
+# Runtime database (auto-created by the app)
+database/predictions.db
+
+# Data files (download separately — see README Recommended Datasets)
+data/processed/*.csv
+data/processed/*.parquet
+
+# Reports / generated outputs
+reports/confusion_matrices.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,3 @@
+# Dataset files are excluded from git (.gitignore).
+# Download a phishing URL dataset and place it here as phishing_data.csv.
+# See README for recommended dataset sources.

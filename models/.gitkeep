@@ -1,0 +1,2 @@
+# Model files are excluded from git (.gitignore).
+# Run `python src/train.py` to generate them after cloning.
