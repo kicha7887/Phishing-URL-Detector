@@ -1,4 +1,4 @@
-# 🛡️ AI-Based Phishing Website Detector
+# 🛡️ Intelligent Website Trust Evaluation System
 
 An intelligent cybersecurity platform that detects phishing websites using Machine Learning, URL feature engineering, WHOIS intelligence, SSL certificate analysis, and real-time threat scoring.
 
